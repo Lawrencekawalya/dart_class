@@ -1,44 +1,44 @@
 void main() {
-  var list1 = [
-    3,
-    "5",
-    "BSU",
-    true
-  ];
-  List<dynamic> mixedList = [
-    "1",
-    3,
-    "four",
-    true,
-    false
-  ];
-  List<String> strings = [
-    "BSU",
-    "1",
-    "2"
-  ];
-  List<int> numbers = [
-    1,
-    2,
-    3,
-    4
-  ];
-  List<bool> booleans = [
-    true,
-    false,
-  ];
-  List<List<int>> numberLists = [
-    [
-      1,
-      3,
-      4
-    ],
-    [
-      3,
-      5,
-      5
-    ]
-  ];
+  // var list1 = [
+  //   3,
+  //   "5",
+  //   "BSU",
+  //   true
+  // ];
+  // List<dynamic> mixedList = [
+  //   "1",
+  //   3,
+  //   "four",
+  //   true,
+  //   false
+  // ];
+  // List<String> strings = [
+  //   "BSU",
+  //   "1",
+  //   "2"
+  // ];
+  // List<int> numbers = [
+  //   1,
+  //   2,
+  //   3,
+  //   4
+  // ];
+  // List<bool> booleans = [
+  //   true,
+  //   false,
+  // ];
+  // List<List<int>> numberLists = [
+  //   [
+  //     1,
+  //     3,
+  //     4
+  //   ],
+  //   [
+  //     3,
+  //     5,
+  //     5
+  //   ]
+  // ];
 
   // print(booleans.reversed);
   // print(numbers.reversed);

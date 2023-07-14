@@ -4,8 +4,8 @@ void main() {
   // print(name);
 
   //  Arithmetic operators
-  int a = 8;
-  int b = 3;
+  // int a = 8;
+  // int b = 3;
   // print("Addition: a +  b  = ${a + b}");
   // print("Addition: a -  b  = ${a - b}");
   // print("Addition: a  * b  = ${a * b}");
